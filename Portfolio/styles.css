@@ -1,0 +1,53 @@
+     h2 {
+         text-align: center;
+     }
+     
+     body {}
+     /* p {
+     text-align: center;
+ } */
+     
+     .info {
+         background-color: #3f2e46;
+         color: white;
+         text-align: center;
+     }
+     
+     .image {
+         display: block;
+         margin-left: auto;
+         margin-right: auto;
+         width: 35%;
+         padding-top: 70px;
+     }
+     
+     div {
+         padding: 20px 50px;
+     }
+     
+     #fontsIntro {
+         font-family: cursive;
+     }
+     
+     .skills {
+         text-align: center;
+         font-family: sans-serif;
+         font-size: large;
+         padding: 10px 15px;
+         background-color: #EBEDE9;
+         margin: auto;
+     }
+     
+     ul {
+         list-style-type: none;
+         margin-right: auto;
+     }
+     
+     .container {
+         padding: 100px;
+     }
+     
+     .footer {
+         background-color: lightblue;
+         text-align: center;
+     }
