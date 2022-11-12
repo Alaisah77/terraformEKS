@@ -1,0 +1,82 @@
+                    body {
+                        background-color: #f4f4f4;
+                        margin: 0;
+                    }
+                    
+                    .container {
+                        width: 780px;
+                        margin: 0 auto;
+                        background: #FFF;
+                    }
+                    
+                    .header {
+                        padding: 48px 0 22px 40px;
+                        border: 2px solid black;
+                    }
+                    
+                    .menu {
+                        background: #3b7687;
+                        padding: 6px 0 6px 40px;
+                    }
+                    
+                    .menu a {
+                        color: #c5d6db;
+                        text-decoration: none;
+                        font-size: 14px;
+                        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                    }
+                    
+                    .menu a:hover {
+                        color: blueviolet;
+                    }
+                    
+                    aside {
+                        float: left;
+                        width: 110px;
+                        padding: 30px 0 0 40px;
+                    }
+                    
+                    h1 {
+                        color: blue;
+                        font-size: 24px;
+                        font-weight: normal;
+                        font-family: "Arial Narrow";
+                    }
+                    
+                    .main {
+                        margin: 0 0 0 181px;
+                        padding: 35px 40px 30px 0;
+                        text-align: justify;
+                        color: black;
+                        font-family: Georgia, 'Times New Roman', Times, serif;
+                        line-height: 18px;
+                    }
+                    
+                    footer {
+                        padding: 6px 40px;
+                        background: rgb(85, 85, 199);
+                        color: white;
+                        font-size: 11px;
+                        text-decoration: right;
+                    }
+                    
+                    .footer a {
+                        text-decoration: none;
+                        color: red,
+                    }
+                    
+                    .link-title {
+                        text-decoration: none;
+                        color: blue;
+                        font-size: 30px;
+                        text-align: center;
+                    }
+                    /* #about-page #home-image img {
+                        float: left;
+                        width: 60%;
+                    }
+                    
+                    #about-page #profile-infor {
+                        float: right;
+                        width: 40%;
+                    } */
